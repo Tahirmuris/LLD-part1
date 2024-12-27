@@ -1,8 +1,8 @@
-package designPattern.StratergeyDesignPattern;
+package designPattern.StratergyDesignPattern;
 
 import java.util.ArrayList;
 
-public class DpStrategy implements SolveStrategy {
+public class NormalStrategy implements SolveStrategy {
 
 
     @Override
