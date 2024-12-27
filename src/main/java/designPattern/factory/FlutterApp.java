@@ -1,6 +1,5 @@
 package designPattern.factory;
 
-import designPattern.PlatForm;
 import designPattern.factory.ios.IosButtonFactory;
 import designPattern.factory.mac.MacButtonFactory;
 
